@@ -1,0 +1,20 @@
+
+-by default python is installed in your ubuntu system 
+-create hello.py python code 
+	write inside that 
+		print("hello world\n") ---->for python3
+		print"hello world\n"   ---->for python2
+Running Python:
+	- python ./hello.py  --->for python2
+	- python3 ./hello.py --->for python3
+	
+	To run python default 
+	insert #!/usr/bin/python
+	give executable permission to hello.py
+		chmod 777 hello.py
+		run directly on cli---> ./hello.py
+	-using python shell 
+		to run python shell 
+		write python and press enter 
+		>>> shell will start 
+		you can write any command over there to test 

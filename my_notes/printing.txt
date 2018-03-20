@@ -1,0 +1,25 @@
+
+
+-print("hello world\n")--->for python 3
+-print "hello world\n" ---> for python 2
+
+printing variables 
+
+var1=100   --->initialized var1 to 100
+
+print(var1) 
+
+we can use multiple variable for single item like 
+
+var2=var1
+
+printing all varibales inside print using python3 
+
+print("var1={}, var2={}".format(var1,var2))
+
+
+
+
+
+
+
